@@ -3,5 +3,4 @@
 <h1>Neofetch Ubuntu<h1>
 <img width="945" height="514" alt="image" src="https://github.com/user-attachments/assets/288923cf-72d5-4938-b0d2-d83556971543" />
 <h1>Neovim and pi-5<h1>
-[Uploading 2025-06-24_11-38-04.mp4…](https://github.com/user-attachments/assets/ae347aac-4127-45fa-a51d-459dc0707b43
-)
+https://github.com/user-attachments/assets/ae347aac-4127-45fa-a51d-459dc0707b43
